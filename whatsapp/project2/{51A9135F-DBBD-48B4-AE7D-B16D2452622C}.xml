@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/05/14" author="e.World Technology Ltd.">
+<project id="{51A9135F-DBBD-48B4-AE7D-B16D2452622C}" file="C:\Users\Ubuntu\Documents\PHPReportMaker\Projects\project1.prp" name="project2" product="PHPReportMaker" version="8.0" datetime="2015/05/14 16:29:07" languagefolder="phprptlang" userlevel="0,&quot;Default&quot;,0">
+<table id="account" name="account" caption="account" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="messages" name="messages" caption="messages" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="status" name="status" caption="status" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view1" name="view1" caption="view 1" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>

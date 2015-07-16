@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/05/13" author="e.World Technology Ltd.">
+<project id="{A5768E41-1B3D-4EFB-93F0-AE1113F97625}" file="C:\Users\Ubuntu\Documents\PHPMaker\Projects\project1.pmp" name="project1" product="PHPMaker" version="11.0" datetime="2015/05/13 15:26:38" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="account" name="account" caption="account" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="messages" name="messages" caption="messages" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="status" name="status" caption="status" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view1" name="view1" caption="Report" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
